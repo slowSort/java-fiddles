@@ -1,0 +1,19 @@
+{
+  "name": "myNewApi",
+  "version": "0.0.1",
+  "description": "Wicked awesome test API",
+  "author": "Daniel Gibbons <daniel_gibbons_m@yahoo.co.uk>",
+  "main": "index.js",
+
+  "dependencies": {
+  },
+
+"devDependencies": {
+    "chai": "*",
+    "mocha": "*"
+  },
+
+  "scripts": {
+    "zip": "zip -r ../myNewApi.zip *"
+  }
+}
